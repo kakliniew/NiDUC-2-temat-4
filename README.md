@@ -5,5 +5,5 @@ Celem projektu było zapoznanie się ze stosowanymi protokołami przesyłu danyc
 Dodatkowo zbadałem dwa kanały dyskretne: Binary Symetric Channel(błędy
 pojedyncze), model Gilberta(błędy grupowe). Zaimplementowałemy kody korekcyjne i
 detekcyjne, a w szczególnym przypadku wysyłanie zmiennej ilości ramek, bitów
-detekcyjnych/korekcyjnych. Realizując projekt uczyliłem się także podstaw języka Python
+detekcyjnych/korekcyjnych. Realizując projekt uczyłem się także podstaw języka Python
 i załączaniem pakietów przydatnych do symulacji oraz obsługi platformy GitHub.
